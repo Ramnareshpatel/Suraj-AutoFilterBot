@@ -1,6 +1,6 @@
-# SAMANTHA_BOT
+# SAMANTHA
 Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝑺𝑨𝑴𝑨𝑵𝑻𝑯𝑨-𝑩𝑶𝑻!;created+by+𝑻𝑬𝑨𝑴+𝑺𝑨𝑴𝑨𝑵𝑻𝑯𝑨!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝑺𝑨𝑴𝑨𝑵𝑻𝑯𝑨-!;created+by+𝑺𝑨𝑴𝑨𝑵𝑻𝑯𝑨!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
@@ -119,4 +119,4 @@ Contact Me On [Telegram](https://t.me/DARKWEBLOAD)
 ## License
 Code released under [The GNU General Public License](LICENSE).
 ## credit 🤠
-https://t.me/DARKWEBLOAD
+https://t.me/moviebus2
