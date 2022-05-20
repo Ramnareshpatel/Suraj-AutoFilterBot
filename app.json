@@ -1,5 +1,5 @@
 {
-    "name": "SAMANTHA_BOT",
+    "name": "Suraj-AutoFilterBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://telegra.ph/file/b666a411e1d5f31d2e547.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DARK-WEBLOAD/SAMANTHA-AUTO-FILTER",
-    "repository": "https://github.com/DARK-WEBLOAD/SAMANTHA-AUTO-FILTER",
+    "website": "https://github.com/Ramnareshpatel/Suraj-AutoFilterBot",
+    "repository": "https://github.com/Ramnareshpatel/Suraj-AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
